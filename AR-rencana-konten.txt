@@ -3,7 +3,10 @@ Rencana Konten Aham
 -JavaScript
   *ES6
   *Fremwork JavaScript
+    > Vue
 -Struktur data dasar
 -PHP Freamwork
+  >Laravel
 -Interview
 -Vlogs
+-Phyton
