@@ -4,6 +4,7 @@ Rencana Konten Aham
   *ES6
   *Fremwork JavaScript
     > Vue
+    > React
 -Struktur data dasar
 -PHP Freamwork
   >Laravel
